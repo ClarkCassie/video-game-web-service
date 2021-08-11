@@ -90,8 +90,8 @@ function bondTemplate(game){
 			<b>Title: </b>${game.Title}<br />
 			<b>Genre: </b>${game.Genre}<br />
 			<b>Company: </b>${game.Company}<br />
-			<b>Year: </b>${game.year}<br />
-			<b>Rating: </b>${game.rating}<br />
+			<b>Year: </b>${game.Year}<br />
+			<b>Rating: </b>${game.Rating}<br />
 			<div class = "pic"><img src="thumbnails/${game.Image}" /></div>
 		</div>
 	`;
