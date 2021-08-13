@@ -25,7 +25,7 @@
 				"Company":"Valve",
 				"Year": 2007,
 				"Rating":"T",
-				"Image":"portal.jpeg"
+				"Image":"portal.jpg"
 			  },
 
 			  {
