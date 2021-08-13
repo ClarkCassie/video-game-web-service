@@ -7,7 +7,7 @@
 				"Company":"Sega",
 				"Year": 1991,
 				"Rating":"E",
-				"Image":"die-another-day.jpg"
+				"Image":"sonic-the-hedgehog.jpg"
 			  },
 
 			  {
@@ -25,7 +25,7 @@
 				"Company":"Valve",
 				"Year": 2007,
 				"Rating":"T",
-				"Image":"portal.jpg"
+				"Image":"portal.jpeg"
 			  },
 
 			  {
