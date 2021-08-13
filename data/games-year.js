@@ -43,7 +43,7 @@
 				"Company":"Valve",
 				"Year": 2012,
 				"Rating":"M",
-				"Image":"counter-strike-global-offensive.jpg"
+				"Image":"counter-strike.jpg"
 			  }
 			]
 }
