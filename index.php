@@ -83,16 +83,16 @@ function bondJSON(data){
 	
 }
 
-function bondTemplate(game){
+function bondTemplate(games){
 
 	return `
 		<div class ="film">
-			<b>Title: </b>${game.Title}<br />
-			<b>Genre: </b>${game.Genre}<br />
-			<b>Company: </b>${game.Company}<br />
-			<b>Year: </b>${game.Year}<br />
-			<b>Rating: </b>${game.Rating}<br />
-			<div class = "pic"><img src="thumbnails/${game.Image}" /></div>
+			<b>Title: </b>${games.Title}<br />
+			<b>Genre: </b>${games.Genre}<br />
+			<b>Company: </b>${games.Company}<br />
+			<b>Year: </b>${games.Year}<br />
+			<b>Rating: </b>${games.Rating}<br />
+			<div class = "pic"><img src="thumbnails/${games.Image}" /></div>
 		</div>
 	`;
 
